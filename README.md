@@ -1,6 +1,7 @@
- ##                         Hola a todos!! align="center" 
-##               Mi nombre es Matías Sebastián Antúnez, 
-##                  soy Desarrollador Jr. Full Stack 💻⚡
+   
+ <p align="center">Hola a todos!! <br/>
+               Mi nombre es Matías Sebastián Antúnez, <br/>
+                  Soy Desarrollador Jr. Full Stack 💻⚡</p>
 
 ## ✍ Languages and Tools
 <p align="center">
