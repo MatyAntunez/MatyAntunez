@@ -58,10 +58,10 @@
 ## 📌 Some screenshots of my proyects:
 ### FullStack Developer - E-Commerce - Clothes 22 - PI- FOOD!
 ---
-![Esta es una imagen](./assets/projects/Captura.PNG.png)
-![Esta es una imagen](./assets/projects/Captura2.PNG.png)
-![Esta es una imagen](./assets/projects/Captura3.PNG.png)
-![Esta es una imagen](./assets/projects/Captura4.PNG.png)
+![Esta es una imagen](./assets/projects/Captura.PNG)
+![Esta es una imagen](./assets/projects/Captura2.PNG)
+![Esta es una imagen](./assets/projects/Captura3.PNG)
+![Esta es una imagen](./assets/projects/Captura4.PNG)
 ![Esta es una imagen](./assets/projects/00.png)
 ![Esta es una imagen](./assets/projects/0.png)
 ![Esta es una imagen](./assets/projects/1.png)
