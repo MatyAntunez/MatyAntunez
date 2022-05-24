@@ -62,8 +62,14 @@
 ![Esta es una imagen](./assets/projects/Captura2.PNG)
 ![Esta es una imagen](./assets/projects/Captura3.PNG)
 ![Esta es una imagen](./assets/projects/Captura4.PNG)
-![Esta es una imagen](./assets/projects/00.png)
-![Esta es una imagen](./assets/projects/0.png)
-![Esta es una imagen](./assets/projects/1.png)
-![Esta es una imagen](./assets/projects/2.png)
+![Esta es una imagen](./assets/projects/Captura5.PNG)
+![Esta es una imagen](./assets/projects/Captura6.PNG)
+![Esta es una imagen](./assets/projects/Captura7.PNG)
+![Esta es una imagen](./assets/projects/Captura8.PNG)
+![Esta es una imagen](./assets/projects/Captura9.PNG)
+![Esta es una imagen](./assets/projects/Captura10.PNG)
+![Esta es una imagen](./assets/projects/Captura11.PNG)
+![Esta es una imagen](./assets/projects/Captura12.PNG)
+
+
 ---
