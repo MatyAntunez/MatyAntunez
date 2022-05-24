@@ -1,12 +1,16 @@
+  <img src="./assets/projects/seguridad.jpeg" width="1024" height="439" align="center"/>
+
    <h1>
-   <i>
- <p align="center">Hola a todos!! <br/>
+     <i>
+        <p align="center">Hola a todos!! <br/>
                Mi nombre es Matías Sebastián Antúnez, <br/>
-                  Soy Desarrollador Jr. Full Stack 💻⚡</p>
-                  </i>
-</h1>
+               Soy Desarrollador Jr. Full Stack 💻⚡
+        </p>
+    </i>
+  </h1>
 
 ## ✍ Languages and Tools
+
 <p align="center">
 | JavaScript | React JS| Redux | Node JS | Express | PostgreSQL | Sequelize | HTML | CSS | Trello | Slack | CorelDraw |
 </p>
@@ -39,6 +43,7 @@
 &nbsp;
 
 ## 📫 How to reach me
+
 <p align="center">
 <a href="https://www.linkedin.com/in/matias-sebastian-antunez" >
     <img width="4.5%" src="./assets/img/li.png"></a>
@@ -52,12 +57,16 @@
 
 &nbsp;
 &nbsp;
-<!-- 
+
+<!--
 [![Llamil's GitHub stats](https://github-readme-stats.vercel.app/api?username=llamagustin)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## 📌 Some screenshots of my proyects:
+
 ### FullStack Developer - E-Commerce - Clothes 22 - PI- FOOD!
+
 ---
+
 ![Esta es una imagen](./assets/projects/Captura.PNG)
 ![Esta es una imagen](./assets/projects/Captura2.PNG)
 ![Esta es una imagen](./assets/projects/Captura3.PNG)
@@ -70,6 +79,5 @@
 ![Esta es una imagen](./assets/projects/Captura10.PNG)
 ![Esta es una imagen](./assets/projects/Captura11.PNG)
 ![Esta es una imagen](./assets/projects/Captura12.PNG)
-
 
 ---
