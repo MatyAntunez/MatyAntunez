@@ -46,8 +46,8 @@
 
 &nbsp;
 &nbsp;
-
-[![Llamil's GitHub stats](https://github-readme-stats.vercel.app/api?username=llamagustin)](https://github.com/anuraghazra/github-readme-stats)
+<!-- 
+[![Llamil's GitHub stats](https://github-readme-stats.vercel.app/api?username=llamagustin)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## 📌 Some screenshots of my proyects:
 ### FullStack Developer - E-Commerce - Clothes 22 - PI- FOOD!
