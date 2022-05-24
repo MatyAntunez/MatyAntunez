@@ -1,8 +1,10 @@
-   
+   <h1>
+   <i>
  <p align="center">Hola a todos!! <br/>
                Mi nombre es Matías Sebastián Antúnez, <br/>
                   Soy Desarrollador Jr. Full Stack 💻⚡</p>
-
+                  </i>
+</h1>
 ## ✍ Languages and Tools
 <p align="center">
 | JavaScript | React JS| Redux | Node JS | Express | PostgreSQL | Sequelize | HTML | CSS | Trello | Slack | CorelDraw |
