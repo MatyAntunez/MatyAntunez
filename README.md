@@ -37,10 +37,10 @@
 <a href="https://www.linkedin.com/in/matias-sebastian-antunez" >
     <img width="4.5%" src="./assets/img/li.png"></a>
     &nbsp;&nbsp;&nbsp;
-<a href="https://wa.me/543854409310" >
+<a href="https://wa.me/542616346629" >
     <img width="4.5%" src="./assets/img/wa.png"></a>
     &nbsp;&nbsp;&nbsp;
-<a href="mailto:llamagustin@gmail.com" >
+<a href="mailto:matias.antunez410@gmail.com" >
     <img width="4.5%" src="./assets/img/gmail.png"></a>
 </p>
 
@@ -51,8 +51,8 @@
 
 ## 📌 Some screenshots of my proyects:
 ### FullStack Developer - E-Commerce - Clothes 22 - PI- FOOD!
----
-<!-- ![Esta es una imagen](./assets/projects/3.png)
+<!-- ---
+![Esta es una imagen](./assets/projects/3.png)
 ![Esta es una imagen](./assets/projects/4.png)
 ![Esta es una imagen](./assets/projects/5.png)
 ![Esta es una imagen](./assets/projects/6.png)
